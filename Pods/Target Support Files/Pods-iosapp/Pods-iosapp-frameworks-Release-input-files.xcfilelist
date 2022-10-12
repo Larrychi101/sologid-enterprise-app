@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-iosapp/Pods-iosapp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BMSAnalyticsAPI/BMSAnalyticsAPI.framework
+${BUILT_PRODUCTS_DIR}/BMSCore/BMSCore.framework
